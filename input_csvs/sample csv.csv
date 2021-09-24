@@ -1,6 +1,0 @@
-﻿Track,File Name,3: Unique Frame Identifier,4-7: Img-bbox(TL_x,TL_y,BR_x,BR_y),8: Detection or Length Confidence,9: Target Length (0 or -1 if invalid),10-11+: Repeated Species,Confidence Pairs or Attributes
-1,2WDC5729-camera_1-20190225-155821Z(StitchedClip)016866(555).jpg,554,56,328,734,580,1,-1,Swordfish,1
-412,94a6c30c-23f0-11e9-a7ea-2352e208ce34.jpg,6131,306,423,425,477,1,-1,Albacore,1
-7,2WDC5729-camera_1-20190225-155821Z(StitchedClip)016866(2822).jpg,2821,813,238,1194,461,1,-1,Bigeyetuna,1
-27,2WDC5729-camera_1-20190225-155821Z(StitchedClip)016866(4603).jpg,4602,928,243,1246,421,1,-1,Yellowfintuna,1
-165078,WDC5729-camera_2-20190119-195049Z61807.jpg,65714,752,561,842,718,1,-1,Blueshark,1
