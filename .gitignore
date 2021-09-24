@@ -1,0 +1,7 @@
+# Ignored files
+input_csvs/*.
+input_photos/*.
+output_photos/*.
+
+# exceptions
+!.gitkeep
