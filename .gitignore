@@ -2,6 +2,7 @@
 input_csvs/*
 input_photos/*
 output_photos/*
+*.csv
 
 # exceptions
 !input_csvs/.gitkeep
