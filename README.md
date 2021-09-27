@@ -21,16 +21,17 @@ After download is finished:
 ~~~~shell
 conda update conda
 ~~~~  
-8. **Close the prompt window** (VERY Important) after updates finish. Re-open the prompt window. 
-9. Type in the following, hit enter (then type in 'y' if asked to do so), and wait for prompt to finish. 
+8. **Close the prompt window** (VERY Important) after updates finish. 
+9. **Re-open the prompt window.** 
+10. Type in the following, hit enter (then type in 'y' if asked to do so), and wait for prompt to finish. 
 ~~~~shell
 conda create --name bbox
 ~~~~ 
-10. Type in the following, and hit enter. You should see the text '(base)' change to '(bbox)'
+11. Type in the following, and hit enter. You should see the text '(base)' change to '(bbox)'
 ~~~~shell
 conda activate bbox
 ~~~~  
-11. Type in the following, hit enter (then type in 'y' if asked to do so), and wait for prompt to finish. 
+12. Type in the following, hit enter (then type in 'y' if asked to do so), and wait for prompt to finish. 
 ~~~~shell
 conda install -c conda-forge jupyterlab seaborn opencv
 ~~~~ 

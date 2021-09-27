@@ -8,7 +8,7 @@ interest_cols = {'x1': '4-7: Img-bbox(TL_x',
               'x2': 'BR_x',
               'y2': 'BR_y)',
               'label': '10-11+: Repeated Species',
-              'filename': 'File Name',
+              'filename': '2: Video or Image Identifier',
              }
 
 rando_seed = 42
