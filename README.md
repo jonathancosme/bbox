@@ -54,7 +54,7 @@ A window should open up in your default web browser with this URL:
 http://localhost:8888/lab  
 You should be able to see the Jupyter Lab GUI.  
 
-On the left hand side of the GUI, double-click the file **draw_bboxes.ipynb**
+On the left hand side of the GUI, double-click the file **draw_bboxes_v2.ipynb**
 Follow the instructions.  
 
 ## Optional
