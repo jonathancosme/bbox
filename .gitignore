@@ -2,9 +2,11 @@
 input_csvs/*
 input_photos/*
 output_photos/*
+output_results/*
 *.csv
 
 # exceptions
 !input_csvs/.gitkeep
 !input_photos/.gitkeep
 !output_photos/.gitkeep
+!output_results/.gitkeep

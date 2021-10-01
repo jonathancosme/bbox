@@ -1,6 +1,7 @@
 folder_locs = {'in_pics': './input_photos/',
                'out_pics': './output_photos/',
                'in_files': './input_csvs/',
+               'out_res': './output_results/',
               }
 
 interest_cols = {'x1': '4-7: Img-bbox(TL_x',
